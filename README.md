@@ -13,4 +13,5 @@ My Personal ZSH theme
 * Full present working directory
 * Configurable display of RPROMPT: set disable_rprompt="true" in .zshrc BEFORE theme
 
-![](/screenshot.png)
+![Prompt outside git repo](/screenshot.png)
+![Prompt inside git repo](/screenshot-gitinfo.png)
